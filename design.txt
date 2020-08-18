@@ -1,0 +1,60 @@
+Aparecido Francisco 1903558
+Camila Farias 1903560
+
+Projeto Empresa Vruzer - Carro voador 
+
+Design
+
+Classe 1 - Usuario:
+		-idPassageiro
+		-nome
+		-cpf
+		-email
+		-celular
+		
+		CadastrarUsuario()
+		LoginUsuario()
+		EsqueciSenha()
+
+
+Classe 2 - Motorista:
+		-idMotorista
+		-nome
+		-cpf
+		-rg
+		-email
+		-celular
+		-cnh
+		-modeloDeCarro
+		-anoDeCarro
+		-placaDoCarro
+		-dataUltimaRevisão
+		
+		CadastrarMotorista()
+		LoginMotorista()
+		ValidarVeiculo()
+		ValidarIdentidade()
+		EsqueciSenha()
+		
+Classe 3 - Corrida:
+		-idCorrida
+		-idPassageiro
+		-idMotorista
+		-valorCorrida
+		-localOrigem
+		-localDestino
+		-formaDePagamento
+		-observacoes
+		-avaliacaoCorrida
+
+		IniciarCorrida()
+		ValidarInfo()
+		ValidarPagamento()
+		LimitadorCorrida()
+		CancelarCorrida()
+		SegurançaCorrida()
+
+
+
+
+		

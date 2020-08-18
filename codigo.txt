@@ -1,0 +1,16 @@
+Aparecido Francisco 1903558
+Camila Farias 1903560
+ 
+Projeto Empresa Vruzer - Carro voador 
+
+Codificação
+
+Back-End:
+	-C#
+	-Java
+	-Python
+
+Front-End:
+	- XAML
+
+Framw
